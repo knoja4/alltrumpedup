@@ -1,0 +1,8 @@
+baseURL = "http://alltrumpedup.com/"
+languageCode = "en-us"
+title = "All Trumped Up"
+theme = "ananke"
+
+[params]
+  body_classes = "helvetica bg-near-white"
+  url_name = "AllTrumpedUp.com"
